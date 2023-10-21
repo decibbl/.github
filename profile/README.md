@@ -1,11 +1,11 @@
 <br>
 
-<p align="center"><img width="300" src="/img/DecibblLogo.png" alt="Decibbl Logo"></p>
+<p align="center"><img width="300" src="/img/Logo.png" alt="Decibbl Logo"></p>
 
 <br>
 
-<h3 align="center">Decentralized music streaming platform for fair artists' payments and distribution.&nbsp;</h3>
-<h4 align="center">Our platform enables artists to distribute their artwork, set payment preferences, engage in collaborative royalty sharing and explore a range of possibilities by tokenising their artwork as NFT.</h4>
+<h3 align="center">Decentralized music streaming & distribution platform.</h3>
+<h4 align="center">Our platform lets artists distribute, monetize, and tokenize their artwork as NFT.</h4>
 
 <br>
 
