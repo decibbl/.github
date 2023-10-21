@@ -24,6 +24,6 @@
 
 <h2 align=“center”>Our Repositories</h2> <p align=“center”>Here are some of the repositories that we are working on to build our platform:</p>
 
-<table align=“center”> <tr> <th>Repository Name</th> <th>Description</th> </tr> <tr> <td><a href=“https://github.com/decibbl/decibbl-music-web-dapp”>decibbl-music-web-dapp</a></td> <td>This repository contains the frontend code for Decibbl Music, a decentralized music streaming application that uses dpl-protocol.</td> </tr> <tr> <td><a href=“https://github.com/decibbl/dpl-protocol”>dpl-protocol</a></td> <td>This repository contains the Decibbl Program Library, a collection of Solana programs that Decibbl uses for providing tokenization of music, on-chain subscription, royalty distribution, and other features.</td> </tr> </table>
+<table align=“center”> <tr> <th>Repository Name</th> <th>Description</th> </tr> <tr> <td><a href=“https://github.com/decibbl/decibbl-music-web-dapp”>decibbl-music-web-dapp</a></td> <td>This repository contains the frontend code for Decibbl Music, a decentralized music streaming application that uses dpl-protocol.</td> </tr> <tr> <td><a href=“https://github.com/decibbl/dpl-protocol”>dpl-protocol</a></td> <td>This repository has the first Solana program of the Decibbl Program Library, which enables music tokenization, on-chain subscription, royalty distribution, and more.</td> </tr> </table>
 
 <br>
